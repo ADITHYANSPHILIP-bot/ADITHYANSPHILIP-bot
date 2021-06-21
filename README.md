@@ -2,7 +2,7 @@
 <h3 align="center">A Curious Guy and a Tech lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyansphilip-bot&label=Profile%20views&color=0e75b6&style=flat" alt="adithyansphilip-bot" /> </p>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4753031-Designer?utm_source=Clipboard_Shot&utm_campaign=KeithRodman&utm_content=Designer&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=KeithRodman&utm_content=Designer&utm_medium=Social_Share">
+
 - 🔭 Currently working on **Front End projects**
 
 - 🌱 Learning **Flutter**
