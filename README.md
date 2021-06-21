@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithyan S Philip</h1>
-<h3 align="center">A Curious guy and a tech lover</h3>
+<h3 align="center">A Curious Guy and a Tech lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyansphilip-bot&label=Profile%20views&color=0e75b6&style=flat" alt="adithyansphilip-bot" /> </p>
 
