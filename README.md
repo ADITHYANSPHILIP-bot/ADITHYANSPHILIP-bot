@@ -9,7 +9,7 @@
 
 - 👨‍💻 Personal Website [https://adithyansphilip-bot.github.io/adithyansphilip/](https://adithyansphilip-bot.github.io/adithyansphilip/)
 
-- 📫 Reach out to me at **adithyansphilip@gmail.com** 
+- 📫 Reach out to me**adithyansphilip@gmail.com** 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
